@@ -1,1 +1,1 @@
-Added the Task01 in text01.txt file
+Trying to remove smart commit error
