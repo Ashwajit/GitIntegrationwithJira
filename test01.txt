@@ -1,1 +1,1 @@
-Trying to remove smart commit error
+Adding commit with only single Hash
