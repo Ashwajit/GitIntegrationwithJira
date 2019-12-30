@@ -1,1 +1,1 @@
-Adding commit with only single Hash
+Adding commit without using Hash
